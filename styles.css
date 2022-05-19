@@ -1,0 +1,343 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+h1{
+	font-family: 'Corben', serif;
+	font-size: 40px;
+    line-height: 55px;
+	padding-top: 20px;
+	text-align: center;
+	text-transform: capitalize;
+}
+h2{
+	text-align: center;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	font-family: 'Corben', serif;
+	font-size: 40px;
+    line-height: 55px;
+}
+h3{
+	text-align: center;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	font-family: 'Corben', serif;
+	font-size: 40px;
+    line-height: 55px;
+}
+p {
+ font-family: 'Nobile', sans-serif;
+ font-size: 13px;
+ line-height: 25px;
+}
+
+.btn-btn-danger3{
+  border-radius: 8px;
+  border: none;
+  color: white;
+	width: 150px;
+	height: 40px;
+  padding: 5px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin-left: 70px ;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: purple; 
+}
+.btn-btn-danger3:hover {
+  background-color: white;
+  color: black;
+}
+.btn-btn-danger4{
+  border-radius: 8px;
+  border: none;
+  color: white;
+	width: 150px;
+	height: 40px;
+  padding: 5px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin-left: 160px ;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: purple; 
+}
+.btn-btn-danger4:hover {
+  background-color: white;
+  color: black;
+}
+
+.btn-btn-danger5{
+  border-radius: 8px;
+  border: none;
+  color: white;
+	width: 150px;
+	height: 40px;
+  padding: 5px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin-left: 250px ;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: purple; 
+}
+.btn-btn-danger5:hover {
+  background-color: white;
+  color: black;
+}
+
+.btn-btn-danger{
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin-left: 70px ;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white; 
+}
+.btn-btn-danger:hover {
+  background-color: white;
+  color: black;
+}
+.btn-btn-danger1{
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 160px ;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: lightgreen; 
+}
+.btn-btn-danger1:hover {
+  background-color: white;
+  color: black;
+}
+.btn-btn-danger2{
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-left: 250px ;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white; 
+}
+.btn-btn-danger2:hover {
+  background-color: white;
+  color: black;
+}
+#header-content nav{
+	float:right;
+	padding-right: 80px;
+	margin-top: 110px;
+	color: pink;
+}
+
+header-content h1{
+	font-size: 20px;
+}
+
+#wrapper{
+	margin-left: 80px;
+	margin-right: 80px;
+	background-color: #D3D3D3;
+	padding: 15px 15px 0px 15px;
+
+}
+.lodge-box-cabin{
+	/*background-image: url("images/luxury-log-home1.jpg");*/
+	/*width: 300px;*/
+	/*height: 214px;*/
+	border-radius: 5px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	opacity: .5;
+	transition: opacity 2s;
+}
+.lodge-box-cabin:hover{
+	opacity: 1.0;}
+
+
+/*@media only all and (max-width : 480px ){
+	#header-content,
+	#header-content nav,
+	#header-content li,
+	#header-content li a {
+		text-align: center;
+	  display: inline-block;
+      vertical-align: middle;
+	  position:relative;
+      display:block;
+	}
+}*/
+mytable {
+	width: 90%;
+border-style: solid;
+border-width: 2px;
+border-color: pink;
+
+}
+
+table{
+border-style: solid;
+border-width: 2px;
+border-color: pink;
+padding-left:100%;
+padding-right:100%;
+	
+}
+
+th{
+	padding: 5px;
+}
+
+tr{
+	 
+}
+/*
+th {
+background-color: #00008b;
+color: #fff;
+font-weight: bold;
+}*/
+
+
+#wrapper-contact {
+	background-color: lightgray;
+	margin-top: 30px;
+}
+
+#contact-content{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*.maintable {
+	width: 200%;
+	padding-top: 20px;
+   margin-left: 100px;
+   margin-right: 100px;
+	
+}*/
+/*form{
+	align-content: center;
+	display:inline-block;
+}*/
+
+input[type=text], select {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+/*Footer container*/
+.container {
+  border-radius: 5px;
+  background-color: #D3D3D3;
+  padding: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.container2 {
+  border-radius: 5px;
+  padding: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.container1 {
+  border-radius: 5px;
+ /* background-color: #C0BAF8;*/
+  padding: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.container3 {
+  border-radius: 5px;
+  padding: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+body{
+	background-color: #013220;
+}
+p{
+	font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
+.columnborder{
+	padding-top:20px;
+	border:solid thin;
+	border-color: white;
+	border-spacing: 70px;
+	background-color: #C0BAF8;
+	margin-bottom: 15px;
+}
+.columnborder1{
+	padding-top:20px;
+	border:solid thin;
+	border-color: white;
+	border-spacing: 70px;
+	background-color: #D3D3D3;
+	margin-bottom: 15px;
+}
+
+.columnborder2{
+	padding-top:20px;
+	border:solid thin;
+	border-color: white;
+	border-spacing: 70px;
+	background-color: #C0BAF8;
+	margin-bottom: 15px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
